@@ -4,4 +4,5 @@ This converts Stern Pinball's audit dump text files into a csv so you can visual
 I've tested this with Metallica audit dumps. Please let me know if this works or doesn't work with other machines.
 
 Usage:
-python stern_audit_to_csv.py -f <inputfile>
+
+```python stern_audit_to_csv.py -f <inputfile>```
